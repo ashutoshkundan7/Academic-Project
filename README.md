@@ -19,3 +19,9 @@ Project Structure:
 - Exploratory Data Analysis (EDA): Analyzing individual and relationships between features.
 - Correlation Analysis: Identifying key feature correlations with loan defaults.
 
+Technologies Used:
+- Python
+- Excel
+- Tableau
+- Sql
+
