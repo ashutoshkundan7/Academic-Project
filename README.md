@@ -22,6 +22,6 @@ Project Structure:
 Technologies Used:
 - Python
 - Excel
-- Tableau
+- Data Visualization - Tableau
 - Sql
 
