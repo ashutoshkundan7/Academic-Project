@@ -20,8 +20,9 @@ Project Structure:
 - Correlation Analysis: Identifying key feature correlations with loan defaults.
 
 Technologies Used:
-- Python
-- Excel
-- Data Visualization - Tableau
-- Sql
+- Programming Languages: Python
+- Spreadsheet Software: Excel
+- Data Visualization - Matplotlib, Seaborn, Tableau
+- Database Management: Sql
+- Cloud Storage: Google Drive
 
