@@ -5,6 +5,7 @@ Project Overview:
 This project aims to analyze loan applicant data to identify patterns that predict if a customer will have difficulty repaying their installments. Insights from this analysis can help banks make informed decisions on loan approvals, amounts, and interest rates, minimizing default risk.
 
 Key Insights:
+
 A. Identify Missing Data and Deal with it Appropriately
 B. Identify Outliners in the Dataset
 C. Analyze Data Imbalance
