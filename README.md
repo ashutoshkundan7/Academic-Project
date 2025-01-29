@@ -19,7 +19,7 @@ Project Structure:
 Technologies Used:
 - Programming Languages: Python
 - Spreadsheet Software: Excel
-- Data Visualization - Matplotlib, Seaborn, Tableau
+- Data Visualization: Tableau
 - Database Management: Sql
 - Cloud Storage: Google Drive
 
